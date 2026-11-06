@@ -1,0 +1,11 @@
+# Python bytecode and caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Personal save data
+*.pickle
+data/
