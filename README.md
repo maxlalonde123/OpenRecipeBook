@@ -1,7 +1,7 @@
 # RecipeShare
 Webapp used for sharing recipes 
 
-##Future work
+## Future work
 1. Name: OpenKitchen - OpenRecipes - OpenRecipeBook
 2. GUI
 3. GUI makes typing the recipe easier
